@@ -6,7 +6,7 @@ body{
 	display: -webkit-box;
 	display: flex;
 	-webkit-box-align: center;
-	        align-items: center;
+		align-items: center;
 	-webkit-box-pack: center;
 	        justify-content: center;
 	background: #fff;
@@ -33,29 +33,29 @@ body{
 .box:hover .screen.screen-5 {
 	-webkit-transform: translateY(-160px);
 	        transform: translateY(-160px);
-	        opacity: 1;
+	opacity: 1;
 }
 
 .box:hover .screen.screen-4 {
 	-webkit-transform: translateY(-120px);
 	        transform: translateY(-120px);
-	        opacity: .8;
+	opacity: .8;
 }
 
 .box:hover .screen.screen-3 {
 	-webkit-transform: translateY(-80px);
 	        transform: translateY(-80px);
-	        opacity: .6;
+	 opacity: .6;
 }
 
 .box:hover .screen.screen-2 {
 	-webkit-transform: translateY(-40px);
 	        transform: translateY(-40px);
-	        opacity: .4;
+	opacity: .4;
 }
 
 .box:hover .screen.screen-1 {
 	-webkit-transform: translateY(0px);
 	        transform: translateY(0px);
-	        opacity: .2;
+	opacity: .2;
 }
